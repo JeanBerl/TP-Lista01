@@ -1,5 +1,7 @@
 using System.DateTime
+
 namespace Lista01;
+
 class Pessoa{
     public string Nome {get;}
     public string CPF {public get; private set;}
