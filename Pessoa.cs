@@ -1,5 +1,3 @@
-using System.DateTime
-
 namespace Lista01;
 
 abstract class Pessoa{
