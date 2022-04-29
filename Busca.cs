@@ -1,5 +1,4 @@
 using System.Linq;
-namespace Lista01;
 
 abstract class Busca{
     public static List<Album> GetArtistAlbums(List<Artista> artistas, string nomeArtista){

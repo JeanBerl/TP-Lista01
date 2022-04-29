@@ -1,5 +1,4 @@
 using System;
-namespace Lista01;
 
 class Artista : Pessoa{
     public DateTime DataDoContrato {get; private set;}

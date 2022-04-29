@@ -1,0 +1,15 @@
+/home/2020952097/Área de Trabalho/TP-Lista01/MyApp/bin/Debug/net6.0/MyApp
+/home/2020952097/Área de Trabalho/TP-Lista01/MyApp/bin/Debug/net6.0/MyApp.deps.json
+/home/2020952097/Área de Trabalho/TP-Lista01/MyApp/bin/Debug/net6.0/MyApp.runtimeconfig.json
+/home/2020952097/Área de Trabalho/TP-Lista01/MyApp/bin/Debug/net6.0/MyApp.dll
+/home/2020952097/Área de Trabalho/TP-Lista01/MyApp/bin/Debug/net6.0/MyApp.pdb
+/home/2020952097/Área de Trabalho/TP-Lista01/MyApp/obj/Debug/net6.0/MyApp.csproj.AssemblyReference.cache
+/home/2020952097/Área de Trabalho/TP-Lista01/MyApp/obj/Debug/net6.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/2020952097/Área de Trabalho/TP-Lista01/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfoInputs.cache
+/home/2020952097/Área de Trabalho/TP-Lista01/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfo.cs
+/home/2020952097/Área de Trabalho/TP-Lista01/MyApp/obj/Debug/net6.0/MyApp.csproj.CoreCompileInputs.cache
+/home/2020952097/Área de Trabalho/TP-Lista01/MyApp/obj/Debug/net6.0/MyApp.dll
+/home/2020952097/Área de Trabalho/TP-Lista01/MyApp/obj/Debug/net6.0/refint/MyApp.dll
+/home/2020952097/Área de Trabalho/TP-Lista01/MyApp/obj/Debug/net6.0/MyApp.pdb
+/home/2020952097/Área de Trabalho/TP-Lista01/MyApp/obj/Debug/net6.0/MyApp.genruntimeconfig.cache
+/home/2020952097/Área de Trabalho/TP-Lista01/MyApp/obj/Debug/net6.0/ref/MyApp.dll

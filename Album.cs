@@ -1,4 +1,3 @@
-namespace Lista01;
 
 class Album{
     public string Nome {get; private set;}
