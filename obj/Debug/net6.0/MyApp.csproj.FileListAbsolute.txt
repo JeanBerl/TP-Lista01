@@ -13,3 +13,18 @@
 /home/2020952097/Área de Trabalho/TP-Lista01/MyApp/obj/Debug/net6.0/MyApp.pdb
 /home/2020952097/Área de Trabalho/TP-Lista01/MyApp/obj/Debug/net6.0/MyApp.genruntimeconfig.cache
 /home/2020952097/Área de Trabalho/TP-Lista01/MyApp/obj/Debug/net6.0/ref/MyApp.dll
+D:\Programação\C#\TP-Lista01\obj\Debug\net6.0\MyApp.csproj.AssemblyReference.cache
+D:\Programação\C#\TP-Lista01\obj\Debug\net6.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\C#\TP-Lista01\obj\Debug\net6.0\MyApp.AssemblyInfoInputs.cache
+D:\Programação\C#\TP-Lista01\obj\Debug\net6.0\MyApp.AssemblyInfo.cs
+D:\Programação\C#\TP-Lista01\obj\Debug\net6.0\MyApp.csproj.CoreCompileInputs.cache
+D:\Programação\C#\TP-Lista01\obj\Debug\net6.0\MyApp.dll
+D:\Programação\C#\TP-Lista01\obj\Debug\net6.0\refint\MyApp.dll
+D:\Programação\C#\TP-Lista01\obj\Debug\net6.0\MyApp.pdb
+D:\Programação\C#\TP-Lista01\bin\Debug\net6.0\MyApp.exe
+D:\Programação\C#\TP-Lista01\bin\Debug\net6.0\MyApp.deps.json
+D:\Programação\C#\TP-Lista01\bin\Debug\net6.0\MyApp.runtimeconfig.json
+D:\Programação\C#\TP-Lista01\bin\Debug\net6.0\MyApp.dll
+D:\Programação\C#\TP-Lista01\bin\Debug\net6.0\MyApp.pdb
+D:\Programação\C#\TP-Lista01\obj\Debug\net6.0\MyApp.genruntimeconfig.cache
+D:\Programação\C#\TP-Lista01\obj\Debug\net6.0\ref\MyApp.dll

@@ -1,5 +1,5 @@
 
-class Album{
+public class Album{
     public string Nome {get; private set;}
     public string Genero {get; private set;}
     public DateTime DataLancamento{get; private set;}
