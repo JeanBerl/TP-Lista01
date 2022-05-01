@@ -8,24 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/2020952097/.nuget/packages/": {}
+    "C:\\Users\\jeanb\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/2020952097/Área de Trabalho/TP-Lista01/MyApp/MyApp.csproj",
-      "projectName": "MyApp",
-      "projectPath": "/home/2020952097/Área de Trabalho/TP-Lista01/MyApp/MyApp.csproj",
-      "packagesPath": "/home/2020952097/.nuget/packages/",
-      "outputPath": "/home/2020952097/Área de Trabalho/TP-Lista01/MyApp/obj/",
+      "projectUniqueName": "D:\\Programação\\C#\\TP-Lista01\\Lista01.csproj",
+      "projectName": "Lista01",
+      "projectPath": "D:\\Programação\\C#\\TP-Lista01\\Lista01.csproj",
+      "packagesPath": "C:\\Users\\jeanb\\.nuget\\packages\\",
+      "outputPath": "D:\\Programação\\C#\\TP-Lista01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/2020952097/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\jeanb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

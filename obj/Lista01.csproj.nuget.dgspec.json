@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programação\\C#\\TP-Lista01\\MyApp.csproj": {}
+    "D:\\Programação\\C#\\TP-Lista01\\Lista01.csproj": {}
   },
   "projects": {
-    "D:\\Programação\\C#\\TP-Lista01\\MyApp.csproj": {
+    "D:\\Programação\\C#\\TP-Lista01\\Lista01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programação\\C#\\TP-Lista01\\MyApp.csproj",
-        "projectName": "MyApp",
-        "projectPath": "D:\\Programação\\C#\\TP-Lista01\\MyApp.csproj",
+        "projectUniqueName": "D:\\Programação\\C#\\TP-Lista01\\Lista01.csproj",
+        "projectName": "Lista01",
+        "projectPath": "D:\\Programação\\C#\\TP-Lista01\\Lista01.csproj",
         "packagesPath": "C:\\Users\\jeanb\\.nuget\\packages\\",
         "outputPath": "D:\\Programação\\C#\\TP-Lista01\\obj\\",
         "projectStyle": "PackageReference",
